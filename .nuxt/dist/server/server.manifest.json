@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/a.js": "pages/a.js",
+    "pages/b.js": "pages/b.js",
+    "pages/faq.js": "pages/faq.js",
+    "pages/index.js": "pages/index.js",
+    "pages/token/index.js": "pages/token/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/a.js": "pages/a.js.map",
+    "pages/b.js": "pages/b.js.map",
+    "pages/faq.js": "pages/faq.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/token/index.js": "pages/token/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

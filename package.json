@@ -1,0 +1,27 @@
+{
+  "name": "DappVinci",
+  "version": "1.0.0",
+  "description": "Dapp Vinci presents Mono Lisa",
+  "author": "Dapp Vinci",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.0",
+    "axios": "^0.21.1",
+    "lodash": "^4.17.20",
+    "nuxt": "^2.14.12",
+    "nuxt-svg-loader": "^1.2.0",
+    "nuxt-webfontloader": "^1.1.0",
+    "vue-async-computed": "^3.9.0",
+    "vue-lodash": "^2.1.2",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}

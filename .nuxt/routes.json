@@ -1,0 +1,37 @@
+[
+  {
+    "name": "a",
+    "path": "/a",
+    "component": "/Users/user/vue/monolisa/pages/a.vue",
+    "chunkName": "pages/a",
+    "_name": "_5099acfa"
+  },
+  {
+    "name": "b",
+    "path": "/b",
+    "component": "/Users/user/vue/monolisa/pages/b.vue",
+    "chunkName": "pages/b",
+    "_name": "_50a7c47b"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "/Users/user/vue/monolisa/pages/faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_1ffb8e22"
+  },
+  {
+    "name": "token",
+    "path": "/token",
+    "component": "/Users/user/vue/monolisa/pages/token/index.vue",
+    "chunkName": "pages/token/index",
+    "_name": "_63f9e315"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/user/vue/monolisa/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ac8be72a"
+  }
+]

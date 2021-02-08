@@ -1,0 +1,28 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+.v-application {
+  font-family: "Fira Sans", sans-serif !important;
+  line-height: 1.5;
+
+  margin-bottom: 1em !important;
+  margin-right: 1em !important;
+}
+
+.v-toolbar__title {
+  font-size: 2rem;
+  line-height: 2;
+
+}
+
+.v-list-item__title {
+  align-self: center;
+  font-size: 1.5rem;
+}
+
+.nameDispSm {
+  font-family: 'Fira Mono', monospace !important;
+}
+

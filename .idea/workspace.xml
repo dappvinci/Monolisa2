@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a8d5664-6a92-4f3d-a8ca-1bbe36d5eeb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/mycanvas.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1XGi3THwHvSJJlKS0ofsHsYJQ5g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Vue&#10;JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/components" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a8d5664-6a92-4f3d-a8ca-1bbe36d5eeb3" name="Default Changelist" comment="" />
+      <created>1580678632618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580678632618</updated>
+      <workItem from="1580678638738" duration="113315000" />
+      <workItem from="1581191243621" duration="55800000" />
+      <workItem from="1581735970322" duration="31482000" />
+      <workItem from="1582003207208" duration="21000" />
+      <workItem from="1582003428767" duration="44000" />
+      <workItem from="1582003545399" duration="18000" />
+      <workItem from="1582003791553" duration="40000" />
+      <workItem from="1582003858930" duration="52000" />
+      <workItem from="1582004156099" duration="33000" />
+      <workItem from="1582004321083" duration="73000" />
+      <workItem from="1582004840517" duration="86000" />
+      <workItem from="1582004947834" duration="41000" />
+      <workItem from="1582005440733" duration="97000" />
+      <workItem from="1582416434063" duration="22000" />
+      <workItem from="1582739569046" duration="2000" />
+      <workItem from="1582740142005" duration="56000" />
+      <workItem from="1591622304815" duration="2002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="216" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581035743163">
+      <screen x="0" y="23" width="1680" height="993" />
+    </state>
+    <state x="499" y="216" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.993@0.23.1680.993" timestamp="1581035743163" />
+    <state x="590" y="604" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581792051333">
+      <screen x="0" y="23" width="1680" height="990" />
+    </state>
+    <state x="590" y="604" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1680.23.1920.1057/0.23.1680.990@0.23.1680.990" timestamp="1581792051333" />
+    <state x="590" y="605" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1680.23.1920.1057/0.23.1680.992@0.23.1680.992" timestamp="1581129469113" />
+    <state x="590" y="606" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1680.23.1920.1057/0.23.1680.993@0.23.1680.993" timestamp="1581271523051" />
+    <state x="540" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581220451266">
+      <screen x="0" y="23" width="1680" height="993" />
+    </state>
+    <state x="540" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.23.1920.1057/0.23.1680.993@0.23.1680.993" timestamp="1581220451266" />
+    <state x="423" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1581050597343">
+      <screen x="0" y="23" width="1680" height="992" />
+    </state>
+    <state x="423" y="23" width="838" height="1032" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.992@0.23.1680.992" timestamp="1581050597343" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/sliders.vue</url>
+          <line>92</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/layouts/default.vue</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
