@@ -3,7 +3,6 @@ import colors from 'vuetify/lib/util/colors'
 import webpack from 'webpack'
 
 export default {
-  mode: 'universal',
   /*
   ** Headers of the page
   */
